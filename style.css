@@ -25,7 +25,7 @@ section {
     border: 2px; 
     padding: 5px 70px 0px 70px;
     float: left;
-    margin: 20px 70px}
+    margin: 20px 0px 20px 70px}
 aside {
     background: #ebebeb; 
     width: 325px;
@@ -34,6 +34,7 @@ aside {
     /* border: 2px;  */
     padding: 0px 70px 10px 70px;
     float: left;
+    margin-top: 20px;  
     }
 footer {
     background: #ebebeb; 
